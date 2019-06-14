@@ -1,0 +1,14 @@
+66bad81e67959d8072848d147197c915 *DESCRIPTION
+5de4174d35dff4f139bfa54b4e9c1e94 *NAMESPACE
+122ec89cee04992699c4a21869122211 *NEWS.md
+b83e9afadb377a209f25cb4d89cf3adf *R/data.R
+e3111c202b3e6095a889560a593179c7 *R/pasta.R
+0074f23f870f8b76a25ae6268f23983d *README.md
+46a9dfe0956248a6ebea5f01f53d4422 *build/vignette.rds
+ccca5fedf9e1cde3b82afbc4266f0f3d *data/studies.RData
+75eebec6c3a09058e613417f194a88d7 *inst/doc/subgxe.R
+3744d2c91a99857ad845d7248f7b9d5f *inst/doc/subgxe.Rmd
+e6756dc469bdc5d0e8f1e463e1a83be7 *inst/doc/subgxe.pdf
+1787fe71ad6dba02c37c8bbb9f4eac08 *man/pasta.Rd
+a3d9d901bff6cb3846bea9df75f6a926 *man/studies.Rd
+3744d2c91a99857ad845d7248f7b9d5f *vignettes/subgxe.Rmd
